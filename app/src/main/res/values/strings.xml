@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="type">Tipo de unidad:</string>
+    <string name="unit1">Convertir:</string>
+    <string name="unit2">A:</string>
+    <string name="sendButton">Convertir</string>
+    <string name="hint">10.0</string>
+    <string name="resultMessage">El resultado es: </string>
+    <string-array name="type_array">
+        <item>Longitud</item>
+        <item>Peso</item>
+        <item>Temperatura</item>
+    </string-array>
+    <string-array name="longitud_array">
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>in</item>
+        <item>ft</item>
+        <item>mi</item>
+    </string-array>
+    <string-array name="peso_array">
+        <item>g</item>
+        <item>kg</item>
+        <item>oz</item>
+        <item>lb</item>
+    </string-array>
+    <string-array name="temperatura_array">
+        <item>ºC</item>
+        <item>ºF</item>
+    </string-array>
+</resources>
